@@ -22,7 +22,7 @@ This change adds `count_words` to the `textstats` package and a command `python3
 
 ## Evidence
 
-- Tests: `Ran 6 tests`, `OK`, on commit 75ea9f4.
+- Tests: `Ran 6 tests`, `OK`, on commit 755df30.
 - Implementation audit findings: 0 CRITICAL, 0 MAJOR, 1 MINOR.
 
 ## Review first
